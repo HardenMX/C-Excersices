@@ -12,3 +12,4 @@ C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\o
 C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.pdb
 C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.genruntimeconfig.cache
 C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\ref\aNewProject.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.sourcelink.json
