@@ -1,0 +1,14 @@
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\bin\Debug\net8.0\aNewProject.exe
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\bin\Debug\net8.0\aNewProject.deps.json
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\bin\Debug\net8.0\aNewProject.runtimeconfig.json
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\bin\Debug\net8.0\aNewProject.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\bin\Debug\net8.0\aNewProject.pdb
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.AssemblyInfoInputs.cache
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.AssemblyInfo.cs
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\refint\aNewProject.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.pdb
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\aNewProject.genruntimeconfig.cache
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\obj\Debug\net8.0\ref\aNewProject.dll
