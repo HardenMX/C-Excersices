@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = aNewProject
-build_property.ProjectDir = C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\Csharp\aNewProject\
+build_property.ProjectDir = C:\Users\Fmorejon\Documents\VSProjects\Csharp\Csharp-Excersices\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
