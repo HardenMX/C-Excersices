@@ -1,10 +1,18 @@
-﻿
-string[] orderIDs = ["B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"];
+﻿Random random = new Random();
+int current = random.Next(1, 11);
 
-foreach (string orderID in orderIDs)
+/*
+do
 {
-    if (orderID.StartsWith("B"))
-    {
-        Console.WriteLine(orderID);
-    }
+    current = random.Next(1, 11);
+    Console.WriteLine(current);
+} while (current != 7);
+*/
+
+while (current >= 3)
+{
+    Console.WriteLine(current);
+    current = random.Next(1, 11);
 }
+Console.WriteLine($"Last number: {current}");
+
